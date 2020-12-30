@@ -1,0 +1,6 @@
+framework module Pods_DinoPrez {
+  umbrella header "Pods-DinoPrez-umbrella.h"
+
+  export *
+  module * { export * }
+}
